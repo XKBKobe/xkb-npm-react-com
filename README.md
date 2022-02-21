@@ -11,6 +11,16 @@
 ## 安装
 
 ```
-npm i xkb-npm-react-com --save
+npm i xkb-npm-react-comp --save
 ```
 
+## 使用
+
+```jsx
+import DemoTest from 'xkb-npm-react-comp';
+<DemoTest name={'baby'}></DemoTest>
+```
+
+## 历史版本信息
+
+- 1.0.4 新增 readme文件的注释

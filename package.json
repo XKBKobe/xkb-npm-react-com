@@ -1,11 +1,9 @@
 {
-  "name": "@xkb/xkb-npm-react-com",
-  "version": "1.0.0",
+  "name": "xkb-npm-react-comp",
+  "version": "1.0.4",
   "description": "年糕组件测试",
   "keywords": [
-    "slide",
-    "slide-verify",
-    "@xkb/xkb-npm-react-com"
+    "xkb-npm-react-comp"
   ],
   "main": "dist/bundle.js",
   "files": [
