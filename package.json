@@ -1,11 +1,11 @@
 {
-  "name": "xkb-npm-react-com",
+  "name": "@xkb/xkb-npm-react-com",
   "version": "1.0.0",
   "description": "年糕组件测试",
   "keywords": [
     "slide",
     "slide-verify",
-    "xkb-npm-react-com"
+    "@xkb/xkb-npm-react-com"
   ],
   "main": "dist/bundle.js",
   "files": [
@@ -17,7 +17,7 @@
     "publish": "sh publish.sh",
     "release": "npm run build && npm run publish"
   },
-  "author": "xkb@dazhenyun.cn",
+  "author": "xkb1501110467@163.com",
   "license": "MIT",
   "dependencies": {
     "prop-types": "15.6.0",
