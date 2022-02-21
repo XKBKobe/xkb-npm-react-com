@@ -1,11 +1,11 @@
 {
   "name": "xkb-npm-react-com",
-  "version": "2.0.5",
-  "description": "滑动验证组件",
+  "version": "1.0.0",
+  "description": "年糕组件测试",
   "keywords": [
     "slide",
     "slide-verify",
-    "@dzc/slide-verify"
+    "xkb-npm-react-com"
   ],
   "main": "dist/bundle.js",
   "files": [
